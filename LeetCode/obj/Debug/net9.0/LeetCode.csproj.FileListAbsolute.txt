@@ -1,0 +1,14 @@
+/Users/iahkimi1510/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode
+/Users/iahkimi1510/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.deps.json
+/Users/iahkimi1510/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.runtimeconfig.json
+/Users/iahkimi1510/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.dll
+/Users/iahkimi1510/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.pdb
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.AssemblyInfoInputs.cache
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.AssemblyInfo.cs
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.dll
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/refint/LeetCode.dll
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.pdb
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.genruntimeconfig.cache
+/Users/iahkimi1510/LeetCode/LeetCode/obj/Debug/net9.0/ref/LeetCode.dll
