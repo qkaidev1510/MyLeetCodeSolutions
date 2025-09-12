@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+// Problem 28 - O((N-M) * M)
 namespace LeetCode.Problems
 {
     public class IndexOfFirstOccurrenceInString
