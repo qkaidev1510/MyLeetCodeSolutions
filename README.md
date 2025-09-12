@@ -12,3 +12,4 @@ This repository contains my solutions to various LeetCode problems in C#.
 
 26. Remove Duplicated from Sorted Array (Easy) [Two Pointers]
 27. Remove Element (Easy) [Two Pointers]
+28. Find the Index of the First Occurrence in a String
