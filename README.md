@@ -32,3 +32,4 @@ This repository contains my solutions to various LeetCode problems in C#.
 27. Remove Element (Easy) [Two Pointers]
 28. Find the Index of the First Occurrence in a String (Easy) [Sliding Window/ Two Pointer]
 29. Merge Sorted Array (Easy) [Two Pointer]
+30. Valid Palindrome (Easy) [Two Pointer]
