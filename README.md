@@ -33,3 +33,5 @@ This repository contains my solutions to various LeetCode problems in C#.
 28 - Find the Index of the First Occurrence in a String (Easy) [Sliding Window/ Two Pointer]
 29 - Merge Sorted Array (Easy) [Two Pointer]
 125 - Valid Palindrome (Easy) [Two Pointer]
+303 - Range Sum Query (Easy) [Prefix Sum]
+724 - Find Pivot Index (Easy) [Prefix Sum]
