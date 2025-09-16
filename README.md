@@ -28,12 +28,12 @@ This repository contains my solutions to various LeetCode problems in C#.
 
 ## The List Of Solved Problems:
 
-26 - Remove Duplicated from Sorted Array (Easy) [Two Pointers]
-27 - Remove Element (Easy) [Two Pointers]
-28 - Find the Index of the First Occurrence in a String (Easy) [Sliding Window/ Two Pointer]
-29 - Merge Sorted Array (Easy) [Two Pointer]
-125 - Valid Palindrome (Easy) [Two Pointer]
-303 - Range Sum Query (Easy) [Prefix Sum]
-724 - Find Pivot Index (Easy) [Prefix Sum]
-1413 - Minimum Value to Get Positive Step by Step Sum (Easy) [Prefix Sum]
-1422 - Maximum Score After Splitting a String (Easy) [Prefix Sum]
+1. (26)Remove Duplicated from Sorted Array (Easy) [Two Pointers]
+2. (27)Remove Element (Easy) [Two Pointers]
+3. (28)Find the Index of the First Occurrence in a String (Easy) [Sliding Window/ Two Pointer]
+4. (29)Merge Sorted Array (Easy) [Two Pointer]
+5. (125)Valid Palindrome (Easy) [Two Pointer]
+6. (303)Range Sum Query (Easy) [Prefix Sum]
+7. (724)Find Pivot Index (Easy) [Prefix Sum]
+8. (1413)Minimum Value to Get Positive Step by Step Sum (Easy) [Prefix Sum]
+9. (1422)Maximum Score After Splitting a String (Easy) [Prefix Sum]
