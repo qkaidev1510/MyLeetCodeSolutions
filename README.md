@@ -35,3 +35,5 @@ This repository contains my solutions to various LeetCode problems in C#.
 125 - Valid Palindrome (Easy) [Two Pointer]
 303 - Range Sum Query (Easy) [Prefix Sum]
 724 - Find Pivot Index (Easy) [Prefix Sum]
+1413 - Minimum Value to Get Positive Step by Step Sum (Easy) [Prefix Sum]
+1422 - Maximum Score After Splitting a String (Easy) [Prefix Sum]
