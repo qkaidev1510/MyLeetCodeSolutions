@@ -37,3 +37,5 @@ This repository contains my solutions to various LeetCode problems in C#.
 7. (724)Find Pivot Index (Easy) [Prefix Sum]
 8. (1413)Minimum Value to Get Positive Step by Step Sum (Easy) [Prefix Sum]
 9. (1422)Maximum Score After Splitting a String (Easy) [Prefix Sum]
+10. (219) Contains Duplicate II (Easy) [Hash Table]
+11. (594) LHS (Easy) [Sorting, Sliding Window]
