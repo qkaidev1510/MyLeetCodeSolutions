@@ -39,3 +39,4 @@ This repository contains my solutions to various LeetCode problems in C#.
 9. (1422)Maximum Score After Splitting a String (Easy) [Prefix Sum]
 10. (219) Contains Duplicate II (Easy) [Hash Table]
 11. (594) LHS (Easy) [Sorting, Sliding Window]
+12. (1652) Defuse the Bomb [Sliding Window]
